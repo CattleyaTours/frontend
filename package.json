@@ -10,7 +10,7 @@
   "dependencies": {
     "@material-ui/core": "^4.10.2",
     "animate.css": "^3.7.2",
-    "axios": "^1.4.0",
+    "axios": "^1.6.0",
     "multiselect-react-dropdown": "^1.5.0",
     "qs": "^6.9.7",
     "react": "^16.13.1",
